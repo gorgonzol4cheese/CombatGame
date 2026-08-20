@@ -36,4 +36,3 @@ int main()
         //========================
         window.display(); // wyswietlenie tego co zostalo wyrenderowane w klatce
     }
-}
